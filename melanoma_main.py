@@ -3,7 +3,7 @@ import gradio as gr
 from ultralytics import YOLO
 
 # Load the YOLO classification model
-MODEL_PATH = os.getenv("YOLO_MODEL_PATH", "weights/last.pt")
+MODEL_PATH = os.getenv("YOLO_MODEL_PATH", "https://github.com/baypogiMD/MelanomaENV2/blob/main/melanoma_last.pt")
 
 def load_model(model_path):
     """Loads the YOLO model from the given path."""
