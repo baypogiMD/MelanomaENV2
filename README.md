@@ -19,6 +19,13 @@ The developer of this model assume no liability for any consequences arising fro
 <br>
 <br>
 
-
-
 ![Try the AI model: MelanomaENV2](https://huggingface.co/spaces/bzafra/melanoma)
+
+<br>
+<br>
+
+You can read the paper in ![DOI 10.3233/FAIA260018]((https://ebooks.iospress.nl/DOI/10.3233/FAIA260018))
+<br>
+<br>
+
+![](https://github.com/baypogiMD/MelanomaENV2/blob/main/Abstract_Picture.png)
