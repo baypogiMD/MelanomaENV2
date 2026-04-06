@@ -18,4 +18,7 @@ If you suspect a skin abnormality or require a definitive diagnosis, please cons
 The developer of this model assume no liability for any consequences arising from the use of this tool.
 <br>
 <br>
+
+
+
 ![Try the AI model: MelanomaENV2](https://huggingface.co/spaces/bzafra/melanoma)
