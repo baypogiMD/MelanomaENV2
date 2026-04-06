@@ -16,5 +16,6 @@ The MelanomaENV2 model is designed for research and educational purposes only. I
 If you suspect a skin abnormality or require a definitive diagnosis, please consult a qualified physician or dermatologist.<br> Always seek medical advice from a healthcare professional before making any health-related decisions.  
 <br>
 The developer of this model assume no liability for any consequences arising from the use of this tool.
-
+<br>
+<br>
 ![Try the AI model: MelanomaENV2](https://huggingface.co/spaces/bzafra/melanoma)
